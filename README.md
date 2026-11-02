@@ -1,6 +1,6 @@
 # TTI Hybrid ECU P2 - Toyota Prius Intelligent Coordination
 
-**Author:** Ebenezer, TTI LVL200 Mechanical Engineering
+**Author:** Ebenezer,  LVL200 Mechanical Engineering
 **Goal:** MEXT Scholarship / Toyota Japan Hybrid Engineer
 
 ## What it does
